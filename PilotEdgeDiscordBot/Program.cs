@@ -6,7 +6,7 @@ using PilotEdgeDiscordBot.Modules;
 
 namespace PilotEdgeDiscordBot
 {
-    internal class Program
+    internal class Program//
     {
         public static string ApiKeysPath;
 
